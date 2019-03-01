@@ -1,6 +1,16 @@
-SimpleFWI
+Visualizing The Misfit Landscape - An Adaptation from Machine Learning
 =========
 
+This code provides the implementation of the SEG 2019 Extended Abstract - Visualizing The Misfit Landscape - An Adaptation from Machine Learning and the FWI solver used for this research is developed by Tristan van Leeuwen - T.vanLeeuwen@uu.nl (https://github.com/TristanvanLeeuwen/SimpleFWI/).
+
+You need to download the SPOT Operator toolbox from http://www.cs.ubc.ca/labs/scl/spot/
+
+Muhammad Izzatullah - muhammad.izzatullah@kaust.edu.sa
+
+
+
+Simple FWI
+==========
 This code provides the basic building blocks to test optimization algorithms on seismic inverse problems.
 The canonical seismic waveform inversion problem is given by
 
