@@ -1,4 +1,4 @@
-Visualizing The Misfit Landscape - An Adaptation from Machine Learning
+Visualizing The Misfit Landscape of Nonlinear Optimization Objective Function
 =========
 
 This code provides the implementation of the SEG 2019 Extended Abstract - Visualizing The Misfit Landscape - An Adaptation from Machine Learning and the FWI solver used for this research is developed by Tristan van Leeuwen - T.vanLeeuwen@uu.nl (https://github.com/TristanvanLeeuwen/SimpleFWI/).
